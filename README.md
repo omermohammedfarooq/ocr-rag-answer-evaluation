@@ -140,8 +140,8 @@ ocr-rag-answer-evaluation/
 
 **Mohammed Omer Farooq**
 - GitHub: [@omermohammedfarooq](https://github.com/omermohammedfarooq)
-- LinkedIn: [Mohammed Omer Farooq](https://linkedin.com/in/mohammed-omer-farooq)
-- Email: mohdomerfarooq17@gmail.com
+- LinkedIn: [Mohammed Omer Farooq](https://linkedin.com/in/omermohammedfarooq)
+- Email: omermohammedfarooq@gmail.com
 
 ---
 
